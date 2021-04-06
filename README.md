@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @heekaru
+- 👀 I’m interested in take a nap (I am too busy in my life, I really need more rest)...
+- 🌱 I’m currently learning data analytics...
+- 📫 How to reach me vivianne356@gmail.com...
+
+<!---
+heekaru/heekaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
